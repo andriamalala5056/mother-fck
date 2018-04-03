@@ -1,0 +1,28 @@
+body {
+    background: url(https://3.bp.blogspot.com/-entRXOuLLas/Vw9EIE1EJtI/AAAAAAAAAvY/dTcLZUsNpww/s000/background.jpg) fixed center -120px;
+    background-image: url(https://3.bp.blogspot.com/-entRXOuLLas/Vw9EIE1EJtI/AAAAAAAAAvY/dTcLZUsNpww/s000/background.jpg);
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    padding: 0 10px
+    }
+h1 {
+    line-height: 1.2;
+    color: orange;
+}
+h3 {
+    line-height: 1.2;
+    color: greenyellow
+}
+h2 {
+    line-height: 1.2;
+    color: yellow;
+}
+a {
+    color: yellowgreen;
+}
+p {
+    text-align: justify;
+}
